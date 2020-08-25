@@ -1,0 +1,2 @@
+- http://antirez.com/news/124 - Writing system software: code comments.
+- Martin, Robert C.. “Clean Code - a Handbook of Agile Software Craftsmanship.” (2008).
