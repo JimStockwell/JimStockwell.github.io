@@ -2,9 +2,9 @@
 
 ## Testing
 
-- https://jestjs.io - Jest testing framework  
+- [Jest testing framework](https://jestjs.io) 
 - [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
 
 ## Misc
 
-- https://www.robinwieruch.de/react-fetching-data - Fetching data from an API in React  
+- [Fetching data from an API in React](https://www.robinwieruch.de/react-fetching-data)
