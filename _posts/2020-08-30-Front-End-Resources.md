@@ -6,7 +6,8 @@
 
 ### Testing
 
-- [Jest testing framework](https://jestjs.io) 
+- [Jest testing framework](https://jestjs.io)
+- [Testing Asynchronous Code](https://jestjs.io/docs/en/asynchronous)- Testing callbacks, promises, and awaits using Jest
 - [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
 
 ### Misc
@@ -19,4 +20,5 @@
   This seems right.
 - [Managing Heading Levels In Design Systems](https://medium.com/@Heydon/managing-heading-levels-in-design-systems-18be9a746fa3) -
   A more complete implementation idea.
-- It is not always appropriate, but when it is, using `<section>` and resetting the heading levels to `H1` seems like an excellent solution.
+- It is not always appropriate, but when it is,
+  using `<section>` and resetting the heading levels to `H1` seems like an excellent solution.
