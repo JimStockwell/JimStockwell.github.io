@@ -1,3 +1,8 @@
+---
+layout: page
+title: Front End
+permalink: /Front-End/
+---
 # Font end in general
 
 - Mozilla's [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
