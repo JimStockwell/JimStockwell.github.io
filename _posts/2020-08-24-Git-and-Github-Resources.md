@@ -1,2 +1,2 @@
-https://git-scm.com/book/en/v2 - The Git Pro Book  
-https://gist.github.com/brianclements/841ea7bffdb01346392c - Angular Commit Format Reference Sheet  
+- [The Git Pro Book](https://git-scm.com/book/en/v2)
+- [Angular Commit Format Reference Sheet](https://gist.github.com/brianclements/841ea7bffdb01346392c)
