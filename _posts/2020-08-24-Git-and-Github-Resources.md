@@ -1,2 +1,3 @@
 - [The Git Pro Book](https://git-scm.com/book/en/v2)
 - [Angular Commit Format Reference Sheet](https://gist.github.com/brianclements/841ea7bffdb01346392c)
+- [Dangit, Git!?!](https://dangitgit.com/en) - An excellent cheatsheet for many useful situations.
