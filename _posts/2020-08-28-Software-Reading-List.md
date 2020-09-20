@@ -10,3 +10,5 @@
 ## Things I think are useful
 
 - http://antirez.com/news/124 - Writing system software: code comments.
+- https://12factor.net - SaaS DevOps and Architecture advice
+- http://aosabook.org/blog/ - The Architecture of Open Source Applications
