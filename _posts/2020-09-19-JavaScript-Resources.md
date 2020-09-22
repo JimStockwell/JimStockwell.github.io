@@ -15,3 +15,4 @@
 
 - [Lodash](https://lodash.com) is a modern JavaScript utility library delivering modularity, performance & extras.
 - [futil-js](https://github.com/smartprocure/futil-js) is a set of functional utilities designed to complement lodash
+- [Ramda: A practical functional library for JavaScript programmers.](https://ramdajs.com/)
