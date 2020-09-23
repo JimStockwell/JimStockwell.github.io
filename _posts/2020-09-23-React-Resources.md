@@ -1,4 +1,9 @@
-# React Resources
+---
+layout: post
+title:  "React Resources"
+---
+
+See [JavaScript Resources]({% post_url 2020-09-19-JavaScript-Resources.md %}) too.
 
 ## AWS
 
