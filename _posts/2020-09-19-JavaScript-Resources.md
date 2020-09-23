@@ -19,4 +19,4 @@
 
 ## Frameworks
 
-[React Resources]({% post_url 2020-09-23-React-Resources.md %})
+[React Resources]({% post_url 2020-09-23-React-Resources %})
