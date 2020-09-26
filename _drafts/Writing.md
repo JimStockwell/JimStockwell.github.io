@@ -1,6 +1,7 @@
 - [This](https://sendgrid.com/blog/write-technical-blog-posts/)
   contains a nice section on promoting your blog posts.
-- [This] contains helpful thoughts on initial ideas, narrowing of focus
+- [This](https://dev.to/elizabethschafer/a-starting-point-for-writing-technical-blog-posts-n2o)
+  contains helpful thoughts on initial ideas, narrowing of focus
 - Assume your readers already have the required background knowledge.
   If there's anything they don't know, they can look it up on their own.
 - Don't include an intro, outro, or stage-setting.
