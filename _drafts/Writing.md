@@ -24,3 +24,4 @@
   Research them and document your discoveries.
 - Try developing a blog post andca corresponding project in tandem.
 - Longer is better.
+- Include outbound links. it helps SEO and is helpful to the reader.
