@@ -1,4 +1,3 @@
 - [The Git Pro Book](https://git-scm.com/book/en/v2)
 - [Angular Commit Format Reference Sheet](https://gist.github.com/brianclements/841ea7bffdb01346392c)
 - [Dangit, Git!?!](https://dangitgit.com/en) - An excellent cheatsheet for many useful situations.
-- From [git-scm docs](https://git-scm.com/docs/git-diff-index): Let’s say that you have worked on your working directory, updated some files in the index and are ready to commit. You want to see exactly what you are going to commit, without having to write a new tree object and compare it that way, and to do that, you just do `git diff-index --cached HEAD`
