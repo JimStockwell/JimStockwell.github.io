@@ -23,6 +23,6 @@
 - Done is better than perfect!
 - Consider keeping a list of things you want to learn about.
   Research them and document your discoveries.
-- Try developing a blog post andca corresponding project in tandem.
+- Try developing a blog post and a corresponding project in tandem.
 - Longer is better.
 - Include outbound links. it helps SEO and is helpful to the reader.
