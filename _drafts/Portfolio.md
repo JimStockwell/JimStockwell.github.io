@@ -14,3 +14,19 @@
     That was done using the "overflow" CSS property in App and Nav,
     and a specified size for the container.
     (Without a specified size there is no concept of overflow).
+- A multi-threaded merge sort done to explore C++'s `std::await` and `std::future` features.
+  The source is [here](https://github.com/JimStockwell/multi-threaded-merge).
+  Some features of interest:
+  - `std::await` and `std::future` were very easy to introduce into the existing program.
+    The only difficulties were:
+    - A g++ extension I used could not be passed as-is through `async`.
+      Specifically, variable-length arrays from C,
+      described [here](https://en.cppreference.com/w/c/language/array),
+      could not be passed through as-is.
+      They had to be either allocated in the heap, or passed in the style `&a[0]` instead of `a`.
+    - Some method was necessary to prevent an explosion of small threads.
+      I chose a theshold array length, below which a direct call was made instead of an async call.
+      This attempts to introduce some balance:
+      only create a thread if there is some minimum work to justify it.
+ 
+  
