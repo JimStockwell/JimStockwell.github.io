@@ -9,4 +9,4 @@
     so that the functions can be automatically granted access to chosen resources.
   - Add Api after the functions it calls are created, or if creating them as part of creating the Api, see above.
   - Add Hosting very last.  After a minimially viable deployment is ready in github, if you plan to use continuous deployment.
-    
+- When choosing a "friendly name" for a resource, be aware, the name is global to the account, not local to a CloudFormation stack.
