@@ -1,4 +1,4 @@
-# JavaScript Resources
+## General
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
