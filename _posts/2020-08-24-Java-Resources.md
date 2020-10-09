@@ -1,2 +1,3 @@
-- https://java-design-patterns.com
+- A collection in the spirit of the Gang of Four's design patterns, but more specialized toward Java.
+  - https://java-design-patterns.com
 - Maven goal for style checking with the checkstyle plugin: "mvn checkstyle:check"
