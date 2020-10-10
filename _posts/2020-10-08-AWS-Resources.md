@@ -10,3 +10,5 @@
   - Add Api after the functions it calls are created, or if creating them as part of creating the Api, see above.
   - Add Hosting very last.  After a minimially viable deployment is ready in github, if you plan to use continuous deployment.
 - When choosing a "friendly name" for a resource in Amplify CLI, be aware, the name is global to the account, not just local to a CloudFormation stack.
+- The [Amplify Libraries](https://docs.amplify.aws/lib/q/platform/js) for JavaScript make front-end interactions with AWS a lot easier.
+
