@@ -26,3 +26,9 @@
 - Try developing a blog post and a corresponding project in tandem.
 - Longer is better.
 - Include outbound links. it helps SEO and is helpful to the reader.
+
+## All Else Fails Topics
+
+- Communication
+  - Presenting in a group
+- Problem solving
