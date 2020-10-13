@@ -7,6 +7,7 @@ A misc. collection of interesting TDD resources.
 - [Mocking is a code smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a) -
   The author suggests that the need for mocking suggests excessively tight coupling.
 - [James Shore on TDD Architecture that avoids mocks](https://www.jamesshore.com/v2/blog/2018/testing-without-mocks)
+- Reducing the scope of possible errors is the key to developing quickly. If you have total confidence that your software worked five minutes ago, then only the actions you've taken in the last five minutes could cause it to fail now. 
 
 ## React
 
