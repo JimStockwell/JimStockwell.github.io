@@ -32,3 +32,4 @@
 - Communication
   - Presenting in a group
 - Problem solving
+- Having product sensibilities and a concern about the end user experience.
