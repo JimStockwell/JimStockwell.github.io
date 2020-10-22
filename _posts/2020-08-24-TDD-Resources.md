@@ -12,4 +12,6 @@ A misc. collection of interesting TDD resources.
 ## React
 
 - [Kent Dodds' Common Mistakes With React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library).  Note that by itself,
-  Testing Library is not broad enough for TDD.  We need to augment it with enzyme or something.
+  Testing Library is (perhaps) not broad enough for TDD.  We need to augment it with enzyme or something.
+- [Five Things You (Probably) Didn't Know About Testing Library](https://www.polvara.me/posts/five-things-you-didnt-know-about-testing-library/) -
+  This article includes a bit about how to test a front-end table with Testing Library.
