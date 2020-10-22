@@ -1,6 +1,7 @@
 ## General
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Giorgio Polvara's website](https://www.polvara.me) of interesting thoughts on JavaScript, and on testing especially.
 
 ## Promises
 
