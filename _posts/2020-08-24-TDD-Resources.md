@@ -15,3 +15,4 @@ A misc. collection of interesting TDD resources.
   Testing Library is (perhaps) not broad enough for TDD.  We need to augment it with enzyme or something.
 - [Five Things You (Probably) Didn't Know About Testing Library](https://www.polvara.me/posts/five-things-you-didnt-know-about-testing-library/) -
   This article includes a bit about how to test a front-end table with Testing Library.
+- Note that innerText is not supported in Jest.  Jest relies on jsdom which [doesn not support innerText](https://github.com/jsdom/jsdom/issues/1245).
