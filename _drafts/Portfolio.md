@@ -1,3 +1,7 @@
+- An investment portfolio rebalancer.
+  React front end served by AWS Amplify, using AWS Cognito, Lambda, DynamoDB, and API Gateway for the backend.  Consumes API data from finnhub.io.
+  A demo in action is [here](https://main.d3iwnupxu9gdlf.amplifyapp.com),
+  and the source code is [here](https://github.com/JimStockwell/rebalance) in GitHub.
 - An image viewer for images served by the Library of Congress API.
   A demo in action is [here](https://master.d1etbrmn6sho17.amplifyapp.com) on AWS Amplify,
   and the source code is [here](https://github.com/JimStockwell/loc) in GitHub.
