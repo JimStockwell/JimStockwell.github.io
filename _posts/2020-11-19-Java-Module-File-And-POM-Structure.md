@@ -5,13 +5,14 @@ Following are some of the lessons I took from it.
 ## Directory Structure Can Be Reasonable
 
 I don't like long names unless they convey important information.
-The module examples I'd seen and read about
-involved long reverse domain name format module names
+The module examples I've seen and read about before
+involved long reverse domain name format module names,
 fully reflected in the project directory tree,
-followed by long reverse domain name format package names.
+followed by long reverse domain name format package names,
+also fully in the project tree.
 Ouch!
 
-So, I was delighted to discover that using long module name
+So, I was delighted to discover that using long module names
 as part of the project directory tree is unnecessary.
 Well, it is necessary, **if** your project is composed in "Multi-Module Mode"
 (see [JEP 261](http://openjdk.java.net/jeps/261)), but that is not the only choice.
