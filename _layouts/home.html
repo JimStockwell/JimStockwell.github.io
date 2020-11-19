@@ -60,14 +60,3 @@ layout: default
 
 </div>
 
-<div>
-  <h2 class="section-heading">Categories</h2>
-</div> 
-{%- for category in site.categories -%}
-  <a href="categories/{{ category.title | downcase}}.html">{{ category.title }}</a> 
-  
-  {% unless forloop.last %}|&nbsp{% endunless %}
-{%- endfor -%}
-</p>
-
-
