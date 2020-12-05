@@ -13,3 +13,4 @@
     - version if you distribute it, then you can choose any typical version with numbers and dots (1.0, 1.1, 1.0.1, ...)
       Google "Semantic Versioning".  Use 0 point something while in development with little or no stability.
     - Note that it seems to be artifactId that controls the top level directory name.
+- To set up a Spring Boot environment quickly: https://start.spring.io/
