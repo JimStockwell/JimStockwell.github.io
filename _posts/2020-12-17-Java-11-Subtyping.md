@@ -49,10 +49,10 @@ A hidden field can be accessed with "super" or with an explicit type qualificati
 
 ## Methods
 
-Roughly, methods are always inherited from a class if not hidden or overridden, and always inherited from a superinterface if not static and not overridden.
+Roughly, methods are always inherited from a class if not hidden or overridden, and always inherited from a superinterface if not static or not overridden.
 
 To override or hide, the overriding or hiding method must have the same parameters, a same or broader access class, a same or narrower set of "throws",
-and a same or subtyped return value.
+a same or subtyped return value, and a same staticness.
 
 Non-static methods override.  Static methods hide static methods of superclasses.
 If a static method tries to hide a static method of an interface, it isn't really hiding it,
