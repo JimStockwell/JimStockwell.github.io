@@ -11,3 +11,5 @@ More carefully, we used a PI control strategy.  The idea is straightforward.  Th
 After implementing this strategy, and working for a while to find appropriate constants, we never had to manually set the production rate again.  At the same time, the warehouse maintained a very steady utilization, as did the production crew.
 
 If you want to talk about how to choose the constants, please contact me.  If there is enough interest, I will write a post, and if not, at least we can talk about it.
+
+Comments to: https://twitter.com/ArizonaJim4/status/1364779251099004931
