@@ -14,3 +14,4 @@
       Google "Semantic Versioning".  Use 0 point something while in development with little or no stability.
     - Note that it seems to be artifactId that controls the top level directory name.
 - To set up a Spring Boot environment quickly: https://start.spring.io/
+- [An article](https://www.baeldung.com/jlink) explaining how to make a minimal JRE with a launch script that will run on serveral platforms. 
