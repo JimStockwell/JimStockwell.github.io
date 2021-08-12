@@ -17,3 +17,7 @@ Keto Asian Cabbage Stir-fry
   - Use any kind of cabbage.
   - Don't freeze.  Freezing breaks down the cabbage and makes the defrosted stir-fry soggy.
   - Most refrigerate well.
+
+Any chopped or green salad that excludes problematic ingredients from the dressing and the salad proper.
+  - Meat adds a lot.
+  - Presentation counts extra for salads.  [Google](https://www.google.com/search?q=salad&tbm=isch) salads and look for visual inspiration.
